@@ -39,7 +39,7 @@ class RayCasting:
             depth_vert = (x_vert - ox) / cos_a
             y_vert = oy + depth_vert * sin_a
 
-            delta_depth = (x_vert - ox) / cos_a
+            delta_depth = dx / cos_a
             dy = delta_depth * sin_a
 
             for i in range(MAX_DEPTH):
