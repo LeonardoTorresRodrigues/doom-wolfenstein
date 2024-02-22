@@ -13,7 +13,7 @@ _[English version](#English)_
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **DoomStein**
-| :label: Tecnologias | python
+| :label: Tecnologias | Python
 | :rocket: URL         | 🚧 Coming Soon
 | :fire: Desafio     | [YouTube Video](https://www.youtube.com/watch?v=ECqUrT7IdqQ&t=2s)
 ![Static Badge](https://img.shields.io/badge/Version-1.0-green)
@@ -25,7 +25,9 @@ _[English version](#English)_
 
 ## Detalhes do projeto
 
-_Projeto baseado no vídeo do [Coder Space](https://www.youtube.com/@CoderSpaceChannel)_ 
+_Projeto baseado no vídeo do [Coder Space](https://www.youtube.com/@CoderSpaceChannel)_
+
+[Projeto original ](https://github.com/StanislavPetrovV/DOOM-style-Game)
 
 <img width="798" alt="Screenshot 2024-02-22 112211" src="https://github.com/LeonardoTorresRodrigues/doom-wolfenstein/assets/91892938/f797e91f-05ad-4774-829a-2b1f4e6f9c61">
 
@@ -53,6 +55,8 @@ _English version_
 ## Project Details
 
 _Project based on the [Coder Space](https://www.youtube.com/@CoderSpaceChannel) video_
+
+[Original project](https://github.com/StanislavPetrovV/DOOM-style-Game)
 
 A First Person Shooter (FPS) that blends elements of DOOM with Wolfenstein 3D.
 
